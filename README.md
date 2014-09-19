@@ -7,7 +7,7 @@ The only hard dependency is [jQuery](http://jquery.com).
 
 ### Installation
 You can pick your file on
-[/dist/](https://github.com/chiefGui/jquery.model/dist/)'s folder, or downloading
+[/dist/](https://github.com/chiefGui/jquery.model/tree/master/dist/)'s folder, or downloading
 by Bower:
 
 ```
