@@ -13,6 +13,9 @@ by Bower:
 bower install jquery.model
 ```
 
+Do not forgot to call the `jquery.model(.min).js` and `jquery.model.css` in your
+HTML's markup &ndash; they are necessary to get Model working.
+
 ### Usage
 
 Model is decoupled and free. There's no pattern you have to follow to use it.
