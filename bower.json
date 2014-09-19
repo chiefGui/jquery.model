@@ -1,0 +1,21 @@
+{
+  "name": "jquery.model",
+  "version": "0.0.1",
+  "authors": [
+    "chiefGui <guilhermeoderdenge@gmail.com>"
+  ],
+  "description": "An extreme simple, minimalist, highly customizable modal based on jQuery.",
+  "keywords": [
+    "jquery",
+    "modal",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
