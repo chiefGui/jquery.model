@@ -5,8 +5,8 @@ An extreme simple, minimalist, highly customizable modal based on jQuery.
 The only hard dependency is [jQuery](http://jquery.com).
 
 ### Installation
-You can pick your file on
-[/dist/](https://github.com/chiefGui/jquery.model/tree/master/dist/)'s folder, or downloading
+You can pick your files on
+[/dist/](https://github.com/chiefGui/jquery.model/tree/master/dist/)'s folder, or downloading them
 by Bower:
 
 ```
