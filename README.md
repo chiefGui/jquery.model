@@ -1,5 +1,4 @@
 # jQuery Model
-----
 An extreme simple, minimalist, highly customizable modal based on jQuery.
 
 ### Dependencies
